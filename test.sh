@@ -5,3 +5,9 @@ ls
 pwd
 
 ls -l
+
+id
+
+free -h
+
+
