@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pwd
+
+ll
+
+ls
+
+mkdir satish
+
+echo "ssshkk >>vignesh.txt"
