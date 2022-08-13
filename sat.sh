@@ -10,3 +10,4 @@ id
 
 free -h
 
+rm -rf
